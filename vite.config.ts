@@ -7,7 +7,7 @@ export default defineConfig(({ mode }) => ({
   server: {
     host: "::",
     port: 8080,
-    allowedHosts: ["my-portfolio-bl4o.onrender.com"], 
+    allowedHosts: ["my-portfolio-r6gz.onrender.com"],
     hmr: {
       overlay: false,
     },
